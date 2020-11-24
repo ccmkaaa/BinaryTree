@@ -1,2 +1,2 @@
 # BinaryTree
-Simple way of creating Tree
+Simple way of creating Tree's.
